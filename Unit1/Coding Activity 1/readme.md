@@ -1,0 +1,1 @@
+This activity is to create a BMI calculator using height and weight.
